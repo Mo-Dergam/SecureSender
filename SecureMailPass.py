@@ -14,7 +14,7 @@ password11 = ''.join(random.choice(Password1) for _ in range(16))
 # Hier estellen wir variablen und speichern wir unsere Email
 #und das benötigte passwort um sie in der login-Funktion zu benutzen 
 sender_email = "mn512693@gmail.com"
-my_password = "dozw umsm rntv bbzc"
+my_password = "Hier das Passwort"
 # und hier eingabe von benutzer-Name und seine Email adresse 
 Benutzer_name = input("geben Sie Ihr Vor un Nachname ein:")
 receiver_email = input("Geben Sie Ihr Email_Adresse Ein:")
